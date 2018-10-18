@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pixy", "Pixy\Pixy.vcxproj", "{71E5977E-7593-49B6-837A-4C05EEC453BA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PixyTest", "PixyTest\PixyTest.vcxproj", "{078E4DAC-F3BE-4168-8A15-9C92F0989351}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71E5977E-7593-49B6-837A-4C05EEC453BA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{71E5977E-7593-49B6-837A-4C05EEC453BA}.Debug|Win32.Build.0 = Debug|Win32
+		{71E5977E-7593-49B6-837A-4C05EEC453BA}.Release|Win32.ActiveCfg = Release|Win32
+		{71E5977E-7593-49B6-837A-4C05EEC453BA}.Release|Win32.Build.0 = Release|Win32
+		{078E4DAC-F3BE-4168-8A15-9C92F0989351}.Debug|Win32.ActiveCfg = Debug|Win32
+		{078E4DAC-F3BE-4168-8A15-9C92F0989351}.Debug|Win32.Build.0 = Debug|Win32
+		{078E4DAC-F3BE-4168-8A15-9C92F0989351}.Release|Win32.ActiveCfg = Release|Win32
+		{078E4DAC-F3BE-4168-8A15-9C92F0989351}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
